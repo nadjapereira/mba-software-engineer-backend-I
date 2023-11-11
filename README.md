@@ -166,6 +166,7 @@ print(type('hello world')) #string
 print(type(True)) #booleana
 print(type(3)) #inteiro
 print(type(10/3)) #float #sempre tem um ponto
-print(type({'nome': 'nadja pereira'})) #chave:valor #usado para verificar se a idade é correpsondente, por example
+print(type({'nome': 'nadja pereira'}))
+#chave:valor #usado para verificar se a idade é correpsondente, por example
 ````
 
